@@ -3,8 +3,8 @@
 /**/*.tfstate*
 /**/.terraform
 
-../modules/key/key-pair
-../modules/key/key-pair.pub
+/modules/key/key-pair
+/modules/key/key-pair.pub
 # Local .terraform directories
 **/.terraform/*
 .terraform/*

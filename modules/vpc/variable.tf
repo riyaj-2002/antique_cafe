@@ -1,0 +1,9 @@
+variable "aws_region" {}
+variable project_name {}
+variable "vpc_cidr" {}
+variable "cidr_block_public_subnet_1" {}
+variable "cidr_block_public_subnet_2" {}
+variable "cidr_block_private_subnet_1" {}
+variable "cidr_block_private_subnet_2" {}
+variable "cidr_block_private_subnet_3" {}
+variable "cidr_block_private_subnet_4" {}
